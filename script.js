@@ -1,3 +1,7 @@
+// Players Score 
+let humanScore = 0
+let computerScore = 0
+
 // Get Computer Choice 
 function getComputerChoice() {
     let randomNumber = Math.floor(Math.random() * 3)
